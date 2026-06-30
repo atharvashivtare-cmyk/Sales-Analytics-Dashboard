@@ -1,0 +1,11 @@
+Order_ID,Date,Region,Category,Product,Sales,Profit
+1001,2026-01-02,North,Electronics,Laptop,65000,12000
+1002,2026-01-03,South,Furniture,Chair,5000,900
+1003,2026-01-05,East,Electronics,Phone,35000,7000
+1004,2026-01-06,West,Office Supplies,Notebook,800,150
+1005,2026-01-07,North,Furniture,Table,12000,2500
+1006,2026-01-09,South,Electronics,Headphones,3000,600
+1007,2026-01-10,East,Furniture,Sofa,25000,5000
+1008,2026-01-11,West,Office Supplies,Pen,500,100
+1009,2026-01-13,North,Electronics,Monitor,15000,3000
+1010,2026-01-15,South,Furniture,Wardrobe,30000,6500
